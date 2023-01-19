@@ -7,4 +7,5 @@ In this program new libraries that are used :
 1) sqlachemy  
 2) voila  
 ----
-
+screenshot of voila invocation:  
+![calling voila on the terminal](./voila_call.png)
