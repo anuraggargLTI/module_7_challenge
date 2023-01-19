@@ -1,0 +1,50 @@
+  471  conda list cartopy
+  472  pip install pyproj
+  473  conda list pyproj
+  474  conda install -c pyviz hvplot geoviews
+  475  pip install -c pyviz hvplot geoviews
+  476  pip install -c pyviz hvplot geoviews
+  477  conda install -c pyviz hvplot geoviews
+  478  clear
+  479  conda list cartopy
+  480  conda list geoviews
+  481  conda list pyproj
+  482  clear
+  483  jupyter lab
+  484  clear
+  485  jupyter lab
+  486  clear
+  487  jupyter lab
+  488  conda list sqlalchemy
+  489  conda list voila
+  490  pip install voila
+  491  conda list voila
+  492  clear
+  493  jupyter lab
+  494  clear
+  495  conda list fire
+  496  conda install fire
+  497  pip install fire
+  498  conda list questionary
+  499  pip install questionary
+  500  conda list questionary
+  501  pwd
+  502  ls
+  503  cd CU-VIRT-FIN-PT-11-2022-U-B/
+  504  ls
+  505  cd module_7_challenge/
+  506  ls
+  507  git status
+  508  git commit etf_analyzer.ipynb -m "updating after completing the challenge"
+  509  git add etf_analyzer.ipynb
+  510  git commit etf_analyzer.ipynb -m "updating after completing the challenge"
+  511  git push
+  512  git status
+  513  git add etf.db
+  514  git commit etf.db -m "adding the db file to git"
+  515  git push
+  516  clear
+  517  git status
+  518  git commit etf_analyzer.ipynb -m "updating after completing the challenge"
+  519  git push
+  520  history 50 > terminal_history.txt
